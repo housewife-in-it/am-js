@@ -1,4 +1,5 @@
 {
+
   "name": "js",
   "version": "1.0.0",
   "description": "am-js",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/housewife-in-it/am-js#readme",
   "devDependencies": {
-    "husky": "^7.0.4"
+    "husky": "^7.0.4",
+    "eslint": "^8.4.0"
   }
 }
