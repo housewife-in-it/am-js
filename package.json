@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "am-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "husky start",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/housewife-in-it/am-js.git"
+  },
+  "author": "Verusiik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/housewife-in-it/am-js/issues"
+  },
+  "homepage": "https://github.com/housewife-in-it/am-js#readme",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
